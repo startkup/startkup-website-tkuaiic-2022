@@ -1,4 +1,4 @@
-TKUAIIC-Website-TKUAIIC-2022
+TKUAIIC-Websites-TKUAIIC-2022
 ================
 
 git repository for use with [TKUAIIC].
